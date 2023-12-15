@@ -1,6 +1,7 @@
 
 # Diabetes Prediction Assessment: Leveraging SQL for Healthcare Insights
 
+![image](https://github.com/shashank-s99/Diabetes-Prediction-Assessment/assets/145201493/1c60d592-6ba3-4b00-a5c2-814a1fccbeb1)
 
 This project utilizes SQL to analyze a simulated healthcare dataset from Psyliq, focusing on uncovering potential predictors of diabetes. We delve into patient demographics, health indicators, and lifestyle habits to gain valuable insights and pave the way for developing effective diabetes prediction models.
 
